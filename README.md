@@ -8,14 +8,14 @@ Purpose -
 3) Better customer service because more accurate information is easier to find.
 
 Software Requirements:
-Java language
-My SQL Database
-Netbeans IDE
-Xampp Server
+Java language,
+My SQL Database,
+Netbeans IDE,
+Xampp Server.
 
 Hardware Requirements:
-Processor – intel core-i5 
-RAM – 6GB
-Hard disk memory space of at least 5 GB
+Processor – intel core-i5, 
+RAM – 6GB,
+Hard disk memory space of at least 5 GB.
 
 
