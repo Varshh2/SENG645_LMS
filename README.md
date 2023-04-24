@@ -17,6 +17,3 @@ Hardware Requirements:
 Processor – intel core-i5, 
 RAM – 6GB,
 Hard disk memory space of at least 5 GB.
-
-
-We have attached the screenshots of the working functionalities of the project in the Checkpoint Alpha Document as a reference.
